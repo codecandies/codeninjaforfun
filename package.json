@@ -1,0 +1,18 @@
+{
+  "name": "codeninja",
+  "version": "0.0.1",
+  "description": "my approach to the amazon india travelling code ninja programming challange",
+  "dependencies": {
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/codecandies/codeninjaforfun"
+  }
+}
