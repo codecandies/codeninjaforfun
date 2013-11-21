@@ -1,4 +1,4 @@
-/*global odeNinja */
+/*global CodeNinja, jQuery */
 
 /* ========================================================================
  * Just for fun, my 2 cents to Amazon India Code Ninjas
