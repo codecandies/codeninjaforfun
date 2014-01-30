@@ -45,7 +45,7 @@ var CodeNinja = function() {
 				solution = "NO SUBSEGMENT FOUND",
 				// if item found, scribble it down for later
 				recPosition = function ( item ) {
-					if ( this.elem.toLowerCase() === item ) {
+					if ( this.elem.toLowerCase() === item.toLowerCase() ) {
 						findings[item] = this.index;
 					}
 				},
